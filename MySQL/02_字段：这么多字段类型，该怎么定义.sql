@@ -30,10 +30,6 @@ from demo.goodsmaster;
 SELECT SUM(price)
 FROM demo.goodsmaster;
 
-SELECT *
-FROM demo.goodsmaster
-WHERE SUM(price) = 1.1; # 保证精度
-
 ALTER TABLE
     demo.goodsmaster
     MODIFY COLUMN price DECIMAL(5, 2);
