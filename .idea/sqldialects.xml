@@ -2,5 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/MySQL" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Notes/04_增删改查：如何操作表中的数据.md" dialect="MySQL" />
   </component>
 </project>
