@@ -28,11 +28,11 @@ from demo.trans as a
          join demo.membermaster AS b on (a.cardno = b.cardno);
 
 # 左外连接
-select a.transactionno,a.itemnumber, a.quantity,a.price,a.transdate,b.membername
+select a.transactionno, a.itemnumber, a.quantity, a.price, a.transdate, b.membername
 from demo.trans as a
          left join demo.membermaster as b on (a.cardno = b.cardno);
 
 # 右外连接
-select a.transactionno,a.itemnumber, a.quantity,a.price,a.transdate,b.membername
+select a.transactionno, a.itemnumber, a.quantity, a.price, a.transdate, b.membername
 from demo.membermaster as b
-    right join demo.trans as a on (a.cardno = b.cardno);
+         right join demo.trans as a on (a.cardno = b.cardno);

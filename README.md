@@ -13,6 +13,8 @@ snippets as we unravel the depths of structured query language. Discover the hid
 4. [增删改查：如何操作表中的数据](https://noahx-cs.notion.site/bb4dca2fa7c44599ae68fd666e53e554?pvs=4)
 5. [主键：如何正确设置主键？](https://noahx-cs.notion.site/6b224db644b7463fa001854c920b77cc?pvs=4)
 6. [外键和连接：如何做关联查询？](https://noahx-cs.notion.site/3de9218017624b3c8e365de8763ebbf0?pvs=4)
+7. [条件语句：WHERE 与 HAVING有什么不同?](https://noahx-cs.notion.site/07-WHERE-HAVING-75642bd9337f4380b5ffa90845ec92a4?pvs=4)
+8. [聚合函数：怎么高效地进行分组统计？](https://noahx-cs.notion.site/08-13d8ab8cfb50411b96fdb2b9d6e0f1ac#186a3108592f44bead6f59a0f5a0b6cd)
 
 ## 进阶
 
