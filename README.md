@@ -17,7 +17,7 @@ snippets as we unravel the depths of structured query language. Discover the hid
 8. [聚合函数：怎么高效地进行分组统计？](https://noahx-cs.notion.site/08-13d8ab8cfb50411b96fdb2b9d6e0f1ac#186a3108592f44bead6f59a0f5a0b6cd)
 9. [时间函数](https://noahx-cs.notion.site/09-MySQL-dd691cf1f716480d93b1932064c31df3?pvs=4)
 10. [数学计算、字符串处理和条件判断](https://noahx-cs.notion.site/10-b2e892aa40de45fbaffd42ddbc85bb1f?pvs=4)
-
+11. [索引](https://noahx-cs.notion.site/11-9fa4fcd34a5c4f5baf5d8645a1ae0ba6?pvs=4)
 ## 进阶
 
 ## 优化
